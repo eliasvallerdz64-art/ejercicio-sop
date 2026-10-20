@@ -25,7 +25,7 @@ Este es el proceso obligatorio para limpiar los recipientes antes de envasar los
 | Tamaño de Frasco | Temperatura | Tiempo de Ebullición |
 | :--- | :--- | :--- |
 | 500 ml | 100 °C | 10 minutos |
-| 1 Litro | 100 °C | 12 minutos |
+| 1 Litro | 100 °C | 20 minutos |
 
 ## Diagrama del Proceso
 mermaid
