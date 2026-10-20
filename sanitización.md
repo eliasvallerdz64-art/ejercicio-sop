@@ -34,3 +34,12 @@ A[Lavar frascos] --> B[Hervir agua];
 B --> C{¿Pasaron 10 min?};
 C -- No --> B;
 C -- Sí --> D[Retirar y secar];
+
+## Referencia Visual
+
+![Frascos en baño maría sumergidos en agua hirviendo](https://dummyimage.com/800x400/2c3e50/ecf0f1&text=Fotografia+del+Bano+Maria)
+
+## Preguntas Frecuentes (FAQ)
+
+**¿Qué pasa si el agua no cubre la tapa por completo?**
+El sellado al vacío fallará. Es obligatorio que el agua rebase la tapa por al menos 3 centímetros para garantizar una pasteurización homogénea.
