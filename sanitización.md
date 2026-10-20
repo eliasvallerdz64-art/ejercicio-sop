@@ -20,3 +20,17 @@ Este es el proceso obligatorio para limpiar los recipientes antes de envasar los
 
 > ⚠️ **Nota de Seguridad:**
 > Jamás introduzcas un frasco frío directamente al agua hirviendo. El choque térmico fracturará el vidrio y arruinará el lote completo.
+## Registro de Temperatura
+
+| Tamaño de Frasco | Temperatura | Tiempo de Ebullición |
+| :--- | :--- | :--- |
+| 500 ml | 100 °C | 10 minutos |
+| 1 Litro | 100 °C | 15 minutos |
+
+## Diagrama del Proceso
+mermaid
+graph TD;
+A[Lavar frascos] --> B[Hervir agua];
+B --> C{¿Pasaron 10 min?};
+C -- No --> B;
+C -- Sí --> D[Retirar y secar];
