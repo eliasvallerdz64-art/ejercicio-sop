@@ -43,3 +43,24 @@ C -- Sí --> D[Retirar y secar];
 
 **¿Qué pasa si el agua no cubre la tapa por completo?**
 El sellado al vacío fallará. Es obligatorio que el agua rebase la tapa por al menos 3 centímetros para garantizar una pasteurización homogénea.
+
+## Verificación de Calidad Pre-Envasado
+
+- [x] Olla de acero inoxidable desinfectada.
+- [x] Termómetro calibrado a 100 °C.
+- [ ] Frascos revisados contra fisuras.
+- [ ] Tapas de plastisol herméticas verificadas.
+
+## Procedimiento de Emergencia
+
+> [!WARNING]
+> No excedas los 15 minutos de ebullición o los vegetales perderán su textura crujiente.
+
+<details>
+  <summary>Haz clic aquí si un frasco se rompe dentro del agua</summary>
+
+  1. Apaga el fuego inmediatamente.
+  2. No intentes sacar los vegetales con las manos.
+  3. Usa un colador de malla fina para retirar los fragmentos grandes de vidrio.
+  4. Desecha toda el agua y el lote afectado.
+</details>
